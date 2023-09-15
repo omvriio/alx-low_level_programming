@@ -6,6 +6,7 @@
  * Return: Always 0
  */
 
+//main: Prints the file name
 int main(void)
 {
 	printf("%s\n", __FILE__);
